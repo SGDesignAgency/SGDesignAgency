@@ -13,7 +13,6 @@ Construyo soluciones digitales que ayudan a empresas y emprendedores a crecer me
 [![GitHub](https://img.shields.io/badge/GitHub-SGDesignAgency-181717?style=for-the-badge&logo=github)](https://github.com/SGDesignAgency)
 
 </div>
----
 
 # 💡 Sobre mí
 
@@ -30,7 +29,6 @@ Actualmente continúo fortaleciendo mis conocimientos en:
 - ⚙️ DevOps
 - 🚀 Clean Code
 
----
 # 🛠 Tecnologías
 
 <table>
@@ -78,7 +76,7 @@ Actualmente continúo fortaleciendo mis conocimientos en:
 </td>
 </tr>
 </table>
----
+
 # 🚀 Actualmente
 
 <table>
@@ -100,7 +98,7 @@ Actualmente continúo fortaleciendo mis conocimientos en:
 
 </tr>
 </table>
----
+
 # 💼 Servicios
 
 <table>
@@ -119,6 +117,7 @@ Actualmente continúo fortaleciendo mis conocimientos en:
 
 - ✔ WordPress
 - ✔ WooCommerce
+- ✔ Elementor
 - ✔ SEO Técnico
 - ✔ Automatización de procesos
 
@@ -126,7 +125,7 @@ Actualmente continúo fortaleciendo mis conocimientos en:
 
 </tr>
 </table>
----
+
 # 🤝 Me interesa colaborar
 
 <table>
@@ -152,7 +151,7 @@ Actualmente continúo fortaleciendo mis conocimientos en:
 
 </tr>
 </table>
----
+
 # 📫 Contacto
 
 <div align="center">
